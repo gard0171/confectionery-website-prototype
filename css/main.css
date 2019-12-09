@@ -1,0 +1,51 @@
+html {
+  box-sizing: border-box;
+  background-image: image(21960603659_242ffb0546_o.jpg);
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h3 {
+  margin-left: auto;
+  margin-right: auto;
+  border-color: #fff;
+  color: #fff;
+  display: inline-block;
+  width: 5em;
+  font-family: cursive;
+}
+
+h1 {
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  color:#48C9B0;
+  font-size: 10rem;
+}
+
+body {
+  background-color: #EAFAF1
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+  image-orientation: center;
+}
+
+img {
+  width: 20%;
+  image-orientation: center;
+}
+
+.logo {
+  width: 25%;
+
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+  text-align: justify;
+}
